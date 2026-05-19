@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+langchain
+langchain-community
+faiss-cpu
+pypdf
+sentence-transformers
+supabase
+python-dotenv
+rapidfuzz
+pandas
+requests
+ollama
+langchain-text-splitters
