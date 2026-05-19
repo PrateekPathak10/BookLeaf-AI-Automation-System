@@ -400,4 +400,5 @@ Prateek Pathak
 ---
 
 # Screenshots
-![Response][screenshots/ss1.png]
+![Response](screenshots/ss1.png)
+![Response](screenshots/ss2.png)
