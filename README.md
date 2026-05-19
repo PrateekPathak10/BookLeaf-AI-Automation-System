@@ -153,8 +153,8 @@ bookleaf-ai-bot/
 ## Clone Repository
 
 ```bash
-git clone YOUR_GITHUB_REPO
-cd bookleaf-ai-bot
+git clone https://github.com/PrateekPathak10/BookLeaf-AI-Automation-System
+cd bookleaf-ai-system
 ```
 
 ---
